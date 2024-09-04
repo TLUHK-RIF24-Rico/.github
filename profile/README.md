@@ -1,12 +1,8 @@
-## Hi there 👋
+# Rico Rimm
+## Rakendusinformaatika
+### Tulin õppima Haapsalu kolledzisse, sest: 
+- *Eriala on väga mitmekülgne.* 
+- *Koht ise väga kodune ja hubane.*
+- *Tundnud pikemat aega huvi programmeerimise vastu.*
+- ![IMG_4601](https://github.com/user-attachments/assets/776d791e-866b-4802-aaec-237728642ef3)
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
